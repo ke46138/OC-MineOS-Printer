@@ -4,5 +4,6 @@
   inkColor = "Цветные чернила:",
   documentTitle = "Название документа",
   documentString = "Введите текст",
-  printButton = "Напечатать"
+  printButton = "Напечатать",
+  notAvailablePrinter = "Программе нужен принтер из мода openprinter"
 }
