@@ -1,0 +1,8 @@
+{
+  greeting = "Hello, ",
+  inkBlack = "Black ink:",
+  inkColor = "Color ink:",
+  documentTitle = "Document title",
+  documentString = "Type text",
+  printButton = "Print"
+}

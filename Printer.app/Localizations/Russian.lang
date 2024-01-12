@@ -1,0 +1,8 @@
+{
+  greeting = "Привет, ",
+  inkBlack = "Чёрные чернила:",
+  inkColor = "Цветные чернила:",
+  documentTitle = "Название документа",
+  documentString = "Введите текст",
+  printButton = "Напечатать"
+}
