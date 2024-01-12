@@ -4,5 +4,6 @@
   inkColor = "Color ink:",
   documentTitle = "Document title",
   documentString = "Type text",
-  printButton = "Print"
+  printButton = "Print",
+  notAvailablePrinter = "This program needs printer from openprinter mod"
 }
