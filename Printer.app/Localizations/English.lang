@@ -5,5 +5,8 @@
   documentTitle = "Document title",
   documentString = "Type text",
   printButton = "Print",
-  notAvailablePrinter = "This program needs printer from openprinter mod"
+  notAvailablePrinter = "This program needs printer from openprinter mod",
+  open = "Open",
+  cancel = "Cancel",
+  choose = "Select file to print"
 }

@@ -5,5 +5,8 @@
   documentTitle = "Название документа",
   documentString = "Введите текст",
   printButton = "Напечатать",
-  notAvailablePrinter = "Программе нужен принтер из мода openprinter"
+  notAvailablePrinter = "Программе нужен принтер из мода openprinter",
+  open = "Открыть",
+  cancel = "Отмена",
+  choose = "Выбрать файл для печати"
 }
