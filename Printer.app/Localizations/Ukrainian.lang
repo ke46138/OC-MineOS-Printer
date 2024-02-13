@@ -1,0 +1,12 @@
+{
+  greeting = "Привіт, ",
+  inkBlack = "Чорні чорнила:",
+  inkColor = "Кольорові чорнила:",
+  documentTitle = "Назва документа",
+  documentString = "Введіть текст",
+  printButton = "Надрукувати",
+  notAvailablePrinter = "Програмі потрібен принтер з мода openprinter",
+  open = "Відкрити",
+  cancel = "Скасувати",
+  choose = "Вибрати файл для друку"
+}
